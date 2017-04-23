@@ -1,0 +1,12 @@
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\bin\Debug\PdfDataExtractor.exe.config
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\bin\Debug\PdfDataExtractor.exe
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\bin\Debug\PdfDataExtractor.pdb
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\bin\Debug\Bytescout.PDFExtractor.dll
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\bin\Debug\Bytescout.PDFExtractor.OCRExtension.dll
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\bin\Debug\log4net.dll
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\bin\Debug\log4net.xml
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\obj\Debug\PdfDataExtractor.ProjectInstaller.resources
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\obj\Debug\PdfDataExtractor.csproj.GenerateResource.Cache
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\obj\Debug\PdfDataExtractor.exe
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\obj\Debug\PdfDataExtractor.pdb
+C:\Project\MarsTechLtd\PdfDataExtractor\PdfDataExtractor\obj\Debug\PdfDataExtractor.csprojResolveAssemblyReference.cache
